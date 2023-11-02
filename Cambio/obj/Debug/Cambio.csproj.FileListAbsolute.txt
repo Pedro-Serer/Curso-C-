@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\bin\Debug\Cambio.exe.config
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\bin\Debug\Cambio.exe
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\bin\Debug\Cambio.pdb
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\obj\Debug\Cambio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\obj\Debug\Cambio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\obj\Debug\Cambio.exe
+C:\Users\Aluno\Desktop\Expressoes Booleanas\Cambio\obj\Debug\Cambio.pdb

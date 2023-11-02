@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.exe.config
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.exe
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.pdb
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.exe
+C:\Users\Aluno\Desktop\Expressoes Booleanas\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.pdb
